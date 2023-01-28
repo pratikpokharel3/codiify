@@ -1,24 +1,11 @@
-# codepen-clone
+# Codiify
 
-## Project setup
-```
-npm install
-```
+A place to quickly test your HTML, CSS, and JS code - all in one place. Put your idea and creativity at best and build something great.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Built With
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Vue.js](https://v2.vuejs.org/) + [Vuetify](https://vuetifyjs.com/en/) + [Vue CLI](https://cli.vuejs.org/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Recommended IDE Setup
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [VS Code](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
