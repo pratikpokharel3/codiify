@@ -1,0 +1,16 @@
+$grid-breakpoints: (
+  "xs": 0,
+  "sm": 576px,
+  "md": 768px,
+  "lg": 992px,
+  "xl": 1200px
+);
+
+.divider {
+  height: 1px;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.show_hover:hover {
+  cursor: pointer;
+}
