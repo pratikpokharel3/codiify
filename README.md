@@ -1,6 +1,6 @@
 # Codiify | Test Your HTML, CSS, & JavaScript Code With Our Online Playground Editor
 
-A place to quickly test your HTML, CSS, and JavaSript code - all in one place. Put your idea and creativity at best and build something great.
+A place to quickly test your HTML, CSS, and JavaScript code - all in one place. Put your idea and creativity at best and build something great.
 
 ## Built With
 
